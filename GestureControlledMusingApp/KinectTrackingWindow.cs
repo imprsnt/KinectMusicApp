@@ -16,15 +16,8 @@ using System.Windows.Shapes;
 
 namespace WindowsFormsApplication1
 {
-  
-       
-  
-
     public partial class KinectTrackingWindow : Form
     {
-
-
-
         public KinectTrackingWindow()
         {
             InitializeComponent();
